@@ -1,0 +1,10 @@
+eShopOnContainers
+Mvc
+nopCommerce
+choco
+AspNetCore.Docs
+UnityCsReference
+RevokeMsgPatcher
+modular-monolith-with-ddd
+privilege-escalation-awesome-scripts-suite
+aspnetboilerplate

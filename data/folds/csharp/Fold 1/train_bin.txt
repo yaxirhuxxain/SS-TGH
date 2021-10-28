@@ -1,0 +1,9 @@
+eShopOnWeb
+refit
+ailab
+csharplang
+runtime
+Jackett
+practical-aspnetcore
+jellyfin
+ml-agents

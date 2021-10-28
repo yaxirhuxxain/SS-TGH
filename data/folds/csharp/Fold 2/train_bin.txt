@@ -1,0 +1,10 @@
+Locale-Emulator
+awesome-dotnet-core
+mRemoteNG
+ReactiveUI
+Sonarr
+efcore
+AssetStudio
+VFSForGit
+OrchardCore
+uno

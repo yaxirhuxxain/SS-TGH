@@ -1,0 +1,5 @@
+Electron.NET
+Polly
+ServiceStack
+Humanizer
+PowerToys

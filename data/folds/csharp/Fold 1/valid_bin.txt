@@ -1,0 +1,5 @@
+blockchain
+MediatR
+FluentValidation
+Xamarin.Forms
+gui.cs

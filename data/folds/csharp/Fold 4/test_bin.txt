@@ -1,0 +1,5 @@
+reactive
+shadowsocks-windows
+CleanArchitecture
+de4dot
+MaterialDesignInXamlToolkit

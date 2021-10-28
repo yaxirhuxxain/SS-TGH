@@ -1,0 +1,5 @@
+MonoGame
+roslyn
+AutoMapper
+Avalonia
+N_m3u8DL-CLI
