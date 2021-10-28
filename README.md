@@ -3,7 +3,7 @@ This repository contains the dataset and code for the paper: **Boosting Source C
 
 Please use the following citation if you use our dataset or code/implementation:
 ```
-@article{hussain2021sstgh,
+@article{hussain2021tgh,
     title={Boosting Source Code Suggestion with Self-Supervised Transformer Gated Highway},
     author={Yasir Hussain and Zhiqiu Huang and Yu Zhou},
     year={2021},
