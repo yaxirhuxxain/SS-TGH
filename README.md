@@ -1,5 +1,5 @@
 # SS-TGH
-This repository contains the dataset and code for the paper: **Boosting Source Code Suggestion with Self-Supervised Transformer Gated Highway**
+This repository contains the dataset and code for the paper: **Boosting Source Code Suggestion with Self-Supervised Transformer Gated Highway**.
 
 Please use the following citation if you use our dataset or code/implementation:
 ```
